@@ -1,5 +1,5 @@
 # D&D-Campaign 
-Deployed at: "https://dnd-campaign-ss.herokuapp.com/"
+Deployed at: https://dnd-campaign-ss.herokuapp.com/
 <img src="https://i.imgur.com/24D2lug.png" alt="D&D Campaign">
 
 # Concept
